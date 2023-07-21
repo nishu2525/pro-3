@@ -1,0 +1,76 @@
+.a{ height:320px; width: 100%; margin : 80px 0px 40px 50px; background: #FFF;}
+.heading1{ 
+    color: #B42B5C;
+    font-family: Roboto;
+    font-size: 49px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;}
+.heading2{margin-top:60px ; color: #2B62B4;
+    font-family: Roboto;
+    font-size: 47px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;}
+.heading3{margin-top:40px ;margin-right: 220px;color: #ACACAC;
+    font-family: Roboto;
+    font-size: 39px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 163.687%; /* 63.838px */
+    letter-spacing: 0.39px;}
+
+.d2{  background-color: #B42B5C; height: 470px; width: 678px; padding-left: 72px; padding-top: 50px; display: inline-block;}
+.rupe{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 71px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+display: inline-block;}
+.rupee{color: #FFBBD3;
+    font-family: Roboto;
+    font-size: 41.047px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;}
+.d3{background-color: #BE4973;height: 470px; width: 676px; padding-left: 72px; padding-top: 50px; display: inline-block;}
+.p1{color: #FFDCE8;
+    font-family: Roboto;
+    font-size: 41.047px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;}
+.full{color: #FFDCE8;
+    font-family: Roboto;
+    font-size: 41.047px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;}
+#2aday{font-weight: 700;}
+.button{height: 80px; width: 550px;border-radius: 10px;
+    background: #4576BD;
+    box-shadow: 0px 21px 47px 0px rgba(0, 0, 0, 0.35);color: #E0EDFF;
+    font-family: Roboto;
+    font-size: 39px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    box-sizing: border-box;
+text-align: center; padding-top: 20px;}
+.whyus{color: #FFDCE8;
+    font-family: Roboto;
+    font-size: 41.047px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;margin-bottom: 60px;
+    margin-top: 20px;}
+.lines{margin-top: -25px; color: #FFBBD3;
+        font-family: Roboto;
+        font-size: 33px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: 0.66px;}
